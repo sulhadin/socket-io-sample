@@ -1,0 +1,16 @@
+{
+  "name": "socket-io-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon node index.js"
+  },
+  "repository": "https://github.com/sulhadin/socket-io-sample.git",
+  "author": "sulhadin <sulhadin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1",
+    "nodemon": "^2.0.7"
+  }
+}
